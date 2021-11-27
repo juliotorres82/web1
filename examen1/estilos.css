@@ -1,0 +1,67 @@
+.divG{
+    background-color: #1ABC9C;
+    padding: 15px;
+}
+
+.div1{
+    background-color: #2ECC71;
+}
+
+.div2{
+    background-color: #E74C3C;
+}
+
+.div3{
+    color: white;
+    background-color: #9B59B6;
+    text-align: center;
+    border: white 2px solid;
+    
+}
+
+.tabla{
+    width: 100%;
+    padding: 1px;
+}
+
+.td1{
+    width: 15%;
+    border: white 2px solid;
+    font-size: 20px;
+}
+
+.td2{
+    width: 85%;
+    border: white 2px solid;
+    text-align: center;
+    font-size: 20px;
+}
+
+.td3{
+    width: 40%;
+    border: white 2px solid;
+    font-size: 20px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.td4{
+    width: 60%;
+    border: white 2px solid;
+    font-size: 20px;
+    padding-top: 80px;
+    text-align: center;
+    padding-bottom: 80px;
+}
+.datos{
+    background-color: rgb(95, 255, 255);
+    color: rgb(63, 8, 0);
+    text-align: center;
+    padding: 10px;
+    border: white 2px solid;
+}
+body{
+    background-color: antiquewhite;
+}
+
+
